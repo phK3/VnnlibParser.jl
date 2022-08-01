@@ -1,0 +1,4 @@
+name = "VnnlibParser"
+uuid = "a2eb1b4f-306b-4001-92b2-1ae29ccd22f5"
+authors = ["phK3 <ufedz@student.kit.edu>"]
+version = "0.1.0"
